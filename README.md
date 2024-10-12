@@ -19,7 +19,6 @@
 **Senior Software Engineer**
 
 São Paulo, SP - Brazil  
-Phone: +55 (11) 95852-1294  
 Email: douglas.pujol@outlook.com  
 LinkedIn: [linkedin.com/in/douglaspujol](https://www.linkedin.com/in/douglaspujol/)
 
