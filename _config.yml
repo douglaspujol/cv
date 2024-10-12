@@ -1,5 +1,6 @@
 title: Douglas Ryan
 logo: /doug.jpeg 
-favicon: /favicon.ico
 #description: text below image
 show_downloads: true
+
+theme: jekyll-theme-minimal
