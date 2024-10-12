@@ -1,18 +1,3 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-
-<style>
-  body {
-    background-color: #0d1117;
-    color: white;
-  }
-  a {
-    color: #58a6ff; /* Azul para links, para uma melhor visualização */
-  }
-  h1, h2, h3, h4, h5, h6 {
-    color: white;
-  }
-</style>
-
 **Senior Software Engineer**
 
 São Paulo, SP - Brazil  
