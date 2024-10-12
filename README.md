@@ -1,3 +1,7 @@
+<head>
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+
 <style>
   body {
     background-color: #0d1117;
