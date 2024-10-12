@@ -13,6 +13,7 @@
 
 <img src="doug.jpeg" alt="Douglas Ryan Foto" style="width:100px;height:100px;border-radius:50%;">
 
+# Douglas Ryan
 
 **Senior Software Engineer**
 
