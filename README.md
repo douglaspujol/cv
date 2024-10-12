@@ -1,3 +1,16 @@
+<style>
+  body {
+    background-color: #0d1117;
+    color: white;
+  }
+  a {
+    color: #58a6ff; /* Azul para links, para uma melhor visualização */
+  }
+  h1, h2, h3, h4, h5, h6 {
+    color: white;
+  }
+</style>
+
 
 <img src="doug.jpeg" alt="Minha Foto" style="width:100px;height:100px;border-radius:50%;">
 
