@@ -11,10 +11,6 @@
   }
 </style>
 
-
-<img src="doug.jpeg" alt="Minha Foto" style="width:100px;height:100px;border-radius:50%;">
-
-
 **Senior Software Engineer**
 
 São Paulo, SP - Brazil  
