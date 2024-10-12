@@ -96,16 +96,6 @@ Hello! I am **Douglas Ryan**, a software engineer with 8 years of experience. Cu
 
 ---
 
-### **Front-end Developer**
-
-**Freelancer**  
-**Jan 2015 – Dec 2016**
-
-- Worked as a freelance front-end developer using technologies such as jQuery, AngularJS, and Bootstrap.
-- Completed projects on platforms like Workana and other freelance websites.
-
----
-
 ## **Skills**
 
 - **Technical Leadership**
