@@ -1,3 +1,6 @@
+
+<img src="doug.jpeg" alt="Minha Foto" style="width:100px;height:100px;border-radius:50%;">
+
 # **Douglas Ryan**
 
 **Senior Software Engineer**
