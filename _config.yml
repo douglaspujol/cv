@@ -1,2 +1,6 @@
 title: Douglas Ryan
-logo: /doug.jpeg
+baseurl: "/cv"
+url: "https://douglaspujol.github.io" 
+
+logo: "/cv/doug.jpeg" 
+favicon: "/cv/favicon.ico" 
