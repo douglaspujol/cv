@@ -25,7 +25,9 @@ LinkedIn: [linkedin.com/in/douglaspujol](https://www.linkedin.com/in/douglaspujo
 
 ## **Summary**
 
-Hello! I am **Douglas Ryan**, a software engineer with 8 years of experience. Currently, I work as a Tech Lead at Orbia, where I lead the development of a global marketplace for agribusiness. In addition to leading the team, I also actively contribute to the development, being directly involved in project architecture and feature building. I have solid knowledge in ReactJS, React Native, Expo, Node.js, AWS, BFF (*Backend for Frontend*), and micro front-ends.
+Hello! I am **Douglas Ryan**, a software engineer with nearly 6 years of experience. Currently, I work as a Tech Lead at Orbia, where I lead the development of a global marketplace for agribusiness. In addition to leading the team, I also actively contribute to the development, being directly involved in project architecture and feature building. I have solid knowledge in ReactJS, React Native, Expo, Node.js, AWS, BFF (Backend for Frontend), and micro front-ends.
+
+I am passionate about leveraging technology to solve complex challenges and build solutions that make a real difference in users' lives. I am always eager to learn, explore new approaches, and work on projects that push the boundaries of what's possible.
 
 ---
 
