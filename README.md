@@ -55,7 +55,7 @@ Passionate about leveraging technology to solve complex challenges, I focus on b
 - Led the development and architecture of an application in the **Creator Economy** sector.
 - Collaborated with cross-functional teams to enhance user experience and deliver high-quality features.
 
-**Technologies Used:** ReactJS, React Native, Expo, Styled Components, React Router Dom, AWS
+**Technologies Used:** ReactJS, React Native, Expo, Node.js, AWS
 
 ---
 
@@ -67,7 +67,7 @@ Passionate about leveraging technology to solve complex challenges, I focus on b
 - Worked on various projects for clients such as Dell, Serasa, Natura, and Bankly.
 - Developed and improved systems across multiple sectors, contributing to technological innovation for companies.
 
-**Technologies Used:** ReactJS, React Native, Angular 10+, Stencil JS, AWS
+**Technologies Used:** ReactJS, React Native, Angular 10+, Stencil JS, AWS,  Node.js
 
 ---
 
