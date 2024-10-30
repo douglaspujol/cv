@@ -155,6 +155,6 @@ Passionate about leveraging technology to solve complex challenges, I focus on b
 **Role:** Tech Lead  
 **Description:** Directed the development and architecture of an application in the **Creator Economy** sector.
 
-**Technologies:** ReactJS, React Native, Expo, Styled Components, React Router Dom, AWS
+**Technologies:** ReactJS, React Native, Expo, Node.JS, AWS
 
 ---
