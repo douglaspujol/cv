@@ -1,10 +1,3 @@
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap');
-  body {
-   font-family: 'Roboto Mono', monospace;
-  }
-</style>
-
 <img src="doug.jpeg" alt="Douglas Ryan Foto" style="width:100px;height:100px;border-radius:50%;">
 
 # Douglas Ryan
