@@ -1,13 +1,7 @@
 <style>
+  @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap');
   body {
-    background-color: #0d1117;
-    color: white;
-  }
-  a {
-    color: #58a6ff; /* Azul para links, para uma melhor visualização */
-  }
-  h1, h2, h3, h4, h5, h6 {
-    color: white;
+   font-family: 'Roboto Mono', monospace;
   }
 </style>
 
@@ -17,9 +11,9 @@
 
 **Senior Software Engineer**
 
-São Paulo, SP - Brazil  
-Email: douglas.pujol@outlook.com 
-GitHub: [https://github.com/douglaspujol]([https://www.linkedin.com/in/douglaspujol/](https://github.com/douglaspujol))
+São Paulo, SP - Brazil<br>
+Email: douglas.pujol@outlook.com <br>
+GitHub: [https://github.com/douglaspujol](https://github.com/douglaspujol)<br>
 LinkedIn: [linkedin.com/in/douglaspujol](https://www.linkedin.com/in/douglaspujol/)
 
 ---
