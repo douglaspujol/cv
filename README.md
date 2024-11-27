@@ -18,14 +18,17 @@
 **Senior Software Engineer**
 
 São Paulo, SP - Brazil  
-Email: douglas.pujol@outlook.com  
+Email: douglas.pujol@outlook.com 
+GitHub: [https://github.com/douglaspujol]([https://www.linkedin.com/in/douglaspujol/](https://github.com/douglaspujol))
 LinkedIn: [linkedin.com/in/douglaspujol](https://www.linkedin.com/in/douglaspujol/)
 
 ---
 
 ## **Summary**
 
-Hello! I am **Douglas Ryan**, a software engineer with nearly 6 years of experience. Currently, I work as a Tech Lead at Orbia, where I lead the development of a global marketplace for agribusiness. In addition to leading the team, I also actively contribute to the development, being directly involved in project architecture and feature building. I have solid knowledge in ReactJS, React Native, Expo, Node.js, AWS, BFF (Backend for Frontend), and micro front-ends.
+Hello! I am a software engineer with nearly 6 years of experience, specializing in front-end and full-stack development. I develop web and mobile solutions, always aiming to create scalable applications that provide exceptional user experiences. Throughout my professional journey, I have had the privilege of contributing to various projects, working with large companies and startups across Latin America.
+
+Currently, I work as a Tech Lead at Orbia, a company in the agribusiness sector, where I develop a global marketplace for the agricultural industry. I have solid expertise in technologies like ReactJS, React Native, Expo, Typescript and Node. I dedicate my time to studying system design, micro front-ends, BFF (Backend for Frontend), Golang, as well as other related fields.
 
 Passionate about leveraging technology to solve complex challenges, I focus on building solutions that make a real difference in users’ lives. Eager to learn, I’m always exploring new approaches and excited to work on projects that push the boundaries of what’s possible.
 
